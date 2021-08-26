@@ -1,0 +1,13 @@
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\bin\Debug\netcoreapp3.1\001-HelloWorld.exe
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\bin\Debug\netcoreapp3.1\001-HelloWorld.deps.json
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\bin\Debug\netcoreapp3.1\001-HelloWorld.runtimeconfig.json
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\bin\Debug\netcoreapp3.1\001-HelloWorld.runtimeconfig.dev.json
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\bin\Debug\netcoreapp3.1\001-HelloWorld.dll
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\bin\Debug\netcoreapp3.1\001-HelloWorld.pdb
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.csproj.AssemblyReference.cache
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.AssemblyInfoInputs.cache
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.AssemblyInfo.cs
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.csproj.CoreCompileInputs.cache
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.dll
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.pdb
+E:\Unity Project\HGH\CSharpLearn\CSharpLearn\001-HelloWorld\obj\Debug\netcoreapp3.1\001-HelloWorld.genruntimeconfig.cache
