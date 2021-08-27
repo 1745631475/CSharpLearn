@@ -55,6 +55,16 @@ namespace _002_变量
             //常量赋值后不可改变
             const int vluae24 = 15;
             #endregion
+
+            #region 变量的本质
+            //变量的本质是一块内存空间
+            //内存空间存储数据
+            //声明一个变量就是声明了一块内存空间
+            //变量的类型觉得了这块内存空间的大小
+            //使用sizeof可以获取基本值类型的内存空间大小,以字节为单位
+            Console.WriteLine(sizeof(int));
+            Console.WriteLine(sizeof(bool));
+            #endregion
         }
     }
 }

@@ -1,0 +1,16 @@
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.csproj.AssemblyReference.cache
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.AssemblyInfoInputs.cache
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.AssemblyInfo.cs
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.csproj.CoreCompileInputs.cache
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\Explore-001.exe
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\Explore-001.deps.json
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\Explore-001.runtimeconfig.json
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\Explore-001.runtimeconfig.dev.json
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\Explore-001.dll
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\ref\Explore-001.dll
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\bin\Debug\net5.0\Explore-001.pdb
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.dll
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\ref\Explore-001.dll
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.pdb
+E:\Unity Project\HGH\CSharpLearn\CSharpExplore\Explore-001\obj\Debug\net5.0\Explore-001.genruntimeconfig.cache
